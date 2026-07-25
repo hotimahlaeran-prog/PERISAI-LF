@@ -1,0 +1,13 @@
+{
+  "name": "Perisai Law Firm",
+  "short_name": "Perisai",
+  "description": "Aplikasi manajemen praktik hukum Perisai Law Firm",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F7F4EC",
+  "theme_color": "#1B2A4A",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
